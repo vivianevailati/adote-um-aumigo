@@ -1,6 +1,10 @@
 # adote-um-aumigo
 Avaliação 2 Adote Um Aumigo
 
+Links Disponíveis:
+Site: https://github.com/vivianevailati/adote-um-aumigo
+Repositório: https://vivianevailati.github.io/adote-um-aumigo/
+
 🐶 Adote um Amigo
 
 Objetivo:
